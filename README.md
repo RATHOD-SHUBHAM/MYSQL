@@ -1,5 +1,5 @@
 # MYSQL
-# HACKER RANK
+### HACKER RANK
 
 </br>
 
