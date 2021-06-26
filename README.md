@@ -7,7 +7,7 @@
 </br>
 
 <p align="center">
-  This repo contains solutions to SQL problems <b>MYSQL</b>.
+  This repo contains solutions to SQL problems in <b>MYSQL</b>.
   </br>
 </p>
 
