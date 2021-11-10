@@ -13,5 +13,5 @@
 
 ## About
 
-I have made a decision to solve problem regularly based on various topics.
+I use this repo for reference purpose.
 The repo is updated as per the questions.
